@@ -30,7 +30,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center">
           <div className="flex items-center">
             <div className="h-10 w-10 mr-2">
-              <img src="/logo.svg" alt="SehaWave Logo" className="h-full w-full" />
+              <img src="/Sehawave_aunch/logo.svg" alt="SehaWave Logo" className="h-full w-full" />
             </div>
             <span className={`font-bold text-xl ${scrolled ? 'text-teal-600' : 'text-white'}`}>
               SehaWave
