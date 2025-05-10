@@ -16,7 +16,7 @@ function App() {
     // Add the logo to the favicon
     const link = document.querySelector("link[rel='icon']") as HTMLLinkElement;
     if (link) {
-      link.href = '/Sehawave_aunch/logo.svg';
+      link.href = '/logo.svg';
     }
   }, []);
 
